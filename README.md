@@ -24,6 +24,20 @@ A synthetic retail dataset containing:
 3. **Customer Analysis** – Customer contribution, segments and purchasing behaviour.
 4. **Store & Returns Analysis** – Store performance, returned quantities and return rates.
 
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Screenshots/Executive_Overview.png)
+
+### 2. Product Analysis
+![Product Analysis](Screenshots/Product_Analysis.png)
+
+### 3. Customer Analysis
+![Customer Analysis](Screenshots/Customer_Analysis.png)
+
+### 4. Store & Returns Analysis
+![Store & Returns Analysis](Screenshots/Store_Returns_Analysis.png)
+
 ## Key Performance Indicators (KPIs)
 - Total Sales
 - Total Profit
